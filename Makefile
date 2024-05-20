@@ -42,7 +42,7 @@
 #  OPTIM		=	-O2
 
   RM		=	rm -f
-  ECHO		=	/bin/echo -e
+  ECHO		=	echo -e
   LOGDIR	=	errors/
 
   HEADER	=	-I./include						\
